@@ -1,2 +1,4 @@
 config.yaml
 docs
+.DS_Store
+.idea
