@@ -1,0 +1,5 @@
+server:
+  address: "0.0.0.0:3000"
+
+postgres:
+  dsn: "postgresql://postgres:@127.0.0.1:5432/tashil_test"
